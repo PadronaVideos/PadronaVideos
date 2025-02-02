@@ -12,6 +12,8 @@ Essa página é uma landing page para um editor de vídeos profissional que dese
 
 ## Instalação
 
-1. Clone o repositório
+1. Clone o repositórioj
+
+
 2. Instale as dependências com `pnpm install`
 3. Rode o projeto com `pnpm dev`
